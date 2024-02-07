@@ -15,6 +15,8 @@ This repository is a simple Readme describing all [**AI for STM32**](https://www
 | [stm32ai-nanoedge-vibration-monitoring](https://github.com/stm32-hotspot/stm32ai-nanoedge-vibration-monitoring) | STM32 Application for vibration monitoring with NanoEdge AI Studio |
 | [stm32ai-nanoedge-datalogger](https://github.com/stm32-hotspot/stm32ai-nanoedge-datalogger) | STM32 Application for datalogging feature with NanoEdge AI Studio |
 | [stm32ai-tvm](https://github.com/stm32-hotspot/stm32ai-tvm) | STM32 Application for Deep Learning Framework with TVM |
+| [x-cube-webcam](https://github.com/STMicroelectronics/x-cube-webcam) | This is an STM32 expansion software to manage USB Video device Class (UVC). It also provides UVC camera application examples |
+
 
 ### Communication and support
 
