@@ -7,6 +7,7 @@ This repository is a simple Readme describing all [**AI for STM32**](https://www
 | Repository                                                       | Description                                                  |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [meta-st-x-linux-ai](https://github.com/STMicroelectronics/meta-st-x-linux-ai) | OpenEmbedded meta layer to install AI frameworks, tools and application samples for the STM32MPU series |
+| [stm32ai-modelzoo-services](https://github.com/STMicroelectronics/stm32ai-modelzoo-services) | AI Model Zoo Services (training, quantization, evaluation scripts...) for STM32 devices |
 | [stm32ai-modelzoo](https://github.com/STMicroelectronics/stm32ai-modelzoo) | AI Model Zoo for STM32 devices |
 | [STEdgeAI Ultralytics fork](https://github.com/stm32-hotspot/ultralytics) | Fork of the Ultralitics repository that implements STEdgeAI models |
 | [stm32ai-nota](https://github.com/STMicroelectronics/stm32ai-nota) | This repository contains Jupyter notebooks that demonstrate how to use Netspresso to prune pre-trained deep learning models from STM32AI Model Zoo and fine-tune them for your specific use case. Learn how to reduce the size of your models without sacrificing accuracy and customize them for your own applications |
