@@ -24,8 +24,11 @@ This repository is a simple Readme describing all [**AI for STM32**](https://www
 ### Computer vision & ISP
 | Project       | Description    |
 | ------------- | -------------- |
-| [x-cube-isp](https://www.st.com/en/development-tools/stm32-isp-iqtune.html) | This is an STM32 expansion software to enable ISP tuning capabilities |
-| [x-cube-webcam](https://github.com/STMicroelectronics/x-cube-webcam) | This is an STM32 expansion software to manage USB Video device Class (UVC). It also provides UVC camera application examples |
+| [stm32-mw-isp](https://github.com/STMicroelectronics/stm32-mw-isp) | The ISP (Image Signal Processing) middleware library supports camera applications development for STM32 microcontrollers embedding the ISP camera pipeline called DCMIPP. |
+| [stm32-mw-camera](https://github.com/STMicroelectronics/stm32-mw-camera) | The camera middleware library simplifies the development process for applications that require camera functionality by abstracting hardware-specific details. |
+| [stm32-mw-ipl](https://github.com/STMicroelectronics/stm32-mw-ipl) | The STM32 Image Processing Library (IPL) is a C software library of image processing and computer vision functionalities enabling to accelerate the development of vision applications on STM32 microcontrollers. |
+| [x-cube-isp](https://github.com/STMicroelectronics/x-cube-isp) | The X-CUBE-ISP is an image signal processing (ISP) tuning software. It targets STM32 microcontrollers embedding an ISP camera pipeline called DCMIPP. It offers advanced image quality tuning services, enabling developers to easily create ISP-based applications. |
+| [x-cube-webcam](https://github.com/STMicroelectronics/x-cube-webcam) | This is an STM32 expansion software to manage USB Video device Class (UVC). It also provides UVC camera application examples. |
 
 ### AI Tools
 | Project       | Description    |
