@@ -1,7 +1,7 @@
 ## STM32AI_Overall_Offer
 
 
-<img width="" src="https://stm32ai.st.com/wp-content/uploads/2024/06/home-featured-st-centered-image-1067x600px.jpg" alt="ST centered image">
+<img width="" src="./Images/home-featured-st-centered-image-1067x600px.jpg" alt="ST centered image">
 
 Simple, fast, optimized.
 Our extensive solutions for embedded AI.
@@ -21,9 +21,9 @@ This repository is listing all [**AI and Computer Vision resources and tools for
 ### 🌱 Application packages
 <details open ><summary><b>STM32N6</b></summary>
 
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2024/12/model-zooegif-people-detect.gif" alt="Object detection">
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2024/12/model-zoo-gif-pose-estimation.gif" alt="Pose estimation">
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2024/12/model-zoo-gif-hand-landmark.gif" alt="Hand landmark">
+<img width="30%" src="./Images/model-zooegif-people-detect.gif" alt="Object detection">
+<img width="30%" src="./Images/model-zoo-gif-pose-estimation.gif" alt="Pose estimation">
+<img width="30%" src="./Images/model-zoo-gif-hand-landmark.gif" alt="Hand landmark">
 
 The application packages are organized into 3 categories:
 
@@ -53,10 +53,9 @@ The application packages are organized into 3 categories:
 
 ### 📂 STM32 MPU
 <details open><summary><b>View links</b></summary>
-
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2025/06/DEMO-STM32MP2-FaceReco.gif" alt="Face recognition">
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2025/06/DEMO-STM32MP2-Heatmap-1.gif" alt="People detection and heatmap">
-<img width="30%" src="https://stm32ai.st.com/wp-content/uploads/2025/06/DEMO-STM32MP2-PoseEstimation-2.gif" alt="Pose estimation">
+<img width="30%" src="./Images/DEMO-STM32MP2-FaceReco.gif" alt="Face recognition">
+<img width="30%" src="./Images/DEMO-STM32MP2-Heatmap-1.gif" alt="People detection and heatmap">
+<img width="30%" src="./Images/DEMO-STM32MP2-PoseEstimation-2.gif" alt="Pose estimation">
 
 | Project       | Description    |
 | ------------- | -------------- |
