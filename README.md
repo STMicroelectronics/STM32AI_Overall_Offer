@@ -82,9 +82,10 @@ The application packages are organized into 3 categories:
 | Project       | Description    |
 | ------------- | -------------- |
 | [x-cube-ai](https://www.st.com/en/embedded-software/x-cube-ai.html) | X-CUBE-AI - AI expansion pack for STM32CubeMX |
-| [ST Edge AI Developer Cloud](https://stedgeai-dc.st.com/home) | ST Edge AI Developer Cloud - online optimization platform |
-| [NanoEdge AI Studio](https://www.st.com/en/development-tools/nanoedgeaistudio.html) | NanoEdge AI Studio - automated machine learning tool |
-| [STM32 ISP IQtune](https://www.st.com/en/development-tools/stm32-isp-iqtune.html) | STM32 ISP IQTune - comprehensive STM32 ISP tuning softwar |
+| [ST Edge AI Core ](https://www.st.com/en/development-tools/stedgeai-core.html) | ST Edge AI Core - Desktop tool to evaluate, optimize and compile edge AI models |
+| [ST Edge AI Developer Cloud](https://stedgeai-dc.st.com/home) | ST Edge AI Developer Cloud - Online optimization platform |
+| [NanoEdge AI Studio](https://www.st.com/en/development-tools/nanoedgeaistudio.html) | NanoEdge AI Studio - Automated machine learning tool |
+| [STM32 ISP IQtune](https://www.st.com/en/development-tools/stm32-isp-iqtune.html) | STM32 ISP IQTune - Comprehensive STM32 ISP tuning software |
 </details>
 
 ### 💡 AI Utilities
