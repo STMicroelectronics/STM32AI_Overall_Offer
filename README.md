@@ -31,22 +31,22 @@ The application packages are organized into 3 categories:
 
 2. <b>Getting Started</b>, simple code example, usually in Bare metal to enable fast and easy hands-on
 
-3. <b>Optimized application</b>, opimized code example, usually in FreeRTOS to enable advanced application code development 
+3. <b>Optimized application</b>, optimized code example, usually in FreeRTOS to enable advanced application code development 
 
 | Category | Project       | Description    |
 | ------------- | ------------- | -------------- |
 |Demo binary| [STM32N6 AI](https://www.st.com/en/development-tools/stm32n6-ai.html) | STM32N6 AI ecosystem with application examples and demonstrations|
-|Getting Started| [Audio](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/audio/STM32N6) | Simple application example performing Audio Event Detection (AED) and Speech Enhancement (SE)|
-|Getting Started| [Image Classification](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/image_classification/STM32N6) | Simple application example performing Image Classification|
-|Getting Started| [Object Detection](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/object_detection/STM32N6) | Simple application example performing Object Detection|
-|Getting Started| [Pose Estimation](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/pose_estimation/STM32N6) | Simple application example performing Pose Estimation|
-|Getting Started| [Instance Segmentation](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/instance_segmentation/STM32N6) | Simple application example performing Instance Segmentation|
-|Getting Started| [Semantic Segmentation](https://github.com/STMicroelectronics/stm32ai-modelzoo-services/tree/main/application_code/semantic_segmentation/STM32N6) | Simple application example performing Semantic Segmentation|
-|Optimized application| [	x-cube-n6-ai-people-detection-tracking](https://github.com/STMicroelectronics/x-cube-n6-ai-people-detection-tracking) | FreeRTOS-based application example for people detection with AI |
-|Optimized application| [	x-cube-n6-ai-multi-pose-estimation](https://github.com/STMicroelectronics/x-cube-n6-ai-multi-pose-estimation) | FreeRTOS-based application example for multi pose estimation with AI |
-|Optimized application| [	x-cube-n6-ai-hand-landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-hand-landmarks) | FreeRTOS-based application example for hand landmark detection with AI |
-|Optimized application| [	x-cube-n6-ai-h264-usb-uvc](https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc) | Multimedia application example with AI, H264 encoding and USB UVC streaming |
-|Optimized application| [	x-cube-n6-ai-power-measurement](https://github.com/STMicroelectronics/x-cube-n6-ai-power-measurement) | Application example enabling power measurement on STM32N6570-DK |
+|Getting Started| [Audio](https://github.com/STMicroelectronics/STM32N6-GettingStarted-Audio) | Simple application example performing Audio Event Detection (AED) and Speech Enhancement (SE)|
+|Getting Started| [Image Classification](https://github.com/STMicroelectronics/STM32N6-GettingStarted-ImageClassification) | Simple application example performing Image Classification|
+|Getting Started| [Object Detection](https://github.com/STMicroelectronics/STM32N6-GettingStarted-ObjectDetection) | Simple application example performing Object Detection|
+|Getting Started| [Pose Estimation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-PoseEstimation) | Simple application example performing Pose Estimation|
+|Getting Started| [Instance Segmentation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-InstanceSegmentation) | Simple application example performing Instance Segmentation|
+|Getting Started| [Semantic Segmentation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-SemanticSegmentation) | Simple application example performing Semantic Segmentation|
+|Optimized application| [	People detection and tracking](https://github.com/STMicroelectronics/x-cube-n6-ai-people-detection-tracking) | FreeRTOS-based application example for people detection with AI |
+|Optimized application| [	Pose estimation](https://github.com/STMicroelectronics/x-cube-n6-ai-multi-pose-estimation) | FreeRTOS-based application example for multi pose estimation with AI |
+|Optimized application| [	Hand landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-hand-landmarks) | FreeRTOS-based application example for hand landmark detection with AI |
+|Optimized application| [	AI with h264 encoder and USB UVC](https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc) | Multimedia application example with AI, H264 encoding and USB UVC streaming |
+|Optimized application| [	Power measurement utilities](https://github.com/STMicroelectronics/x-cube-n6-ai-power-measurement) | Application example enabling power measurement on STM32N6570-DK |
 
 
 </details>
