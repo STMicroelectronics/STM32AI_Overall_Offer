@@ -79,13 +79,13 @@ The application packages are organized into 3 categories:
 ### 🔧 AI Tools
 <details><summary><b>View links</b></summary>
 
-| Project       | Description    |
+|        | Description    |
 | ------------- | -------------- |
-| [x-cube-ai](https://www.st.com/en/embedded-software/x-cube-ai.html) | X-CUBE-AI - AI expansion pack for STM32CubeMX |
-| [ST Edge AI Core ](https://www.st.com/en/development-tools/stedgeai-core.html) | ST Edge AI Core - Desktop tool to evaluate, optimize and compile edge AI models |
-| [ST Edge AI Developer Cloud](https://stedgeai-dc.st.com/home) | ST Edge AI Developer Cloud - Online optimization platform |
-| [NanoEdge AI Studio](https://www.st.com/en/development-tools/nanoedgeaistudio.html) | NanoEdge AI Studio - Automated machine learning tool |
-| [STM32 ISP IQtune](https://www.st.com/en/development-tools/stm32-isp-iqtune.html) | STM32 ISP IQTune - Comprehensive STM32 ISP tuning software |
+| <a href="https://www.st.com/en/embedded-software/x-cube-ai.html"> <img src="https://img.shields.io/badge/AI%20Tool-x--cube--ai-FFD700?style=flat&logo=stmicroelectronics&logoColor=white"/></a> | X-CUBE-AI - AI expansion pack for STM32CubeMX |
+| <a href="https://www.st.com/en/development-tools/stedgeai-core.html"> <img src="https://img.shields.io/badge/AI%20Tool-ST%20Edge%20AI%20Core-FFD700?style=flat&logo=stmicroelectronics&logoColor=white"/></a> | ST Edge AI Core - Desktop tool to evaluate, optimize and compile edge AI models on multiple ST products |
+| <a href="https://stedgeai-dc.st.com/home"> <img src="https://img.shields.io/badge/AI%20Tool-STM32Cube.AI%20Developer%20Cloud-FFD700?style=flat&logo=stmicroelectronics&logoColor=white"/></a> | ST Edge AI Developer Cloud - Online optimization platform |
+| <a href="https://www.st.com/en/development-tools/nanoedgeaistudio.html"> <img src="https://img.shields.io/badge/AI%20Tool-NanoEdge%20AI%20Studio-FFD700?style=flat&logo=stmicroelectronics&logoColor=white"/></a> | NanoEdge AI Studio - Automated machine learning tool |
+| <a href="https://www.st.com/en/development-tools/stm32-isp-iqtune.html"> <img src="https://img.shields.io/badge/IQ%20Tool-STM32%20ISP%20IQTune-blue?style=flat&logo=stmicroelectronics&logoColor=white"/></a> | STM32 ISP IQTune - Comprehensive STM32 ISP tuning software |
 </details>
 
 ### 💡 AI Utilities
