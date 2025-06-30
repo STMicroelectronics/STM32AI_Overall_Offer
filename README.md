@@ -6,7 +6,9 @@
 Simple, fast, optimized.
 Our extensive solutions for embedded AI.
 
-This repository is listing all [**AI and Computer Vision resources and tools for STM32**](https://www.st.com/content/st_com/en/ecosystems/artificial-intelligence-ecosystem-stm32.html).
+This repository is the primary entry point for all Artificial Intelligence (AI) projects related to STMicroelectronics' [**STM32 microcontrollers (MCUs)**](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) and [**microprocessors (MPUs)**](https://www.st.com/en/microcontrollers-microprocessors/stm32-arm-cortex-mpus.html). It provides a comprehensive overview of the AI and Computer Vision resources available for STM32 devices, guiding developers to the tools and software needed to add smart features to their products.
+
+Visit our dedicated website at [**stm32ai.st.com**](https://www.st.com/content/st_com/en/ecosystems/artificial-intelligence-ecosystem-stm32.html).
 
 ### ✨ STM32 ModelZoo
 <details open><summary><b>View links</b></summary>
