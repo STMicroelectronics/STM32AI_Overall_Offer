@@ -44,6 +44,8 @@ The application packages are organized into 3 categories:
 |Getting Started| [Pose Estimation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-PoseEstimation) | Simple application example performing Pose Estimation|
 |Getting Started| [Instance Segmentation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-InstanceSegmentation) | Simple application example performing Instance Segmentation|
 |Getting Started| [Semantic Segmentation](https://github.com/STMicroelectronics/STM32N6-GettingStarted-SemanticSegmentation) | Simple application example performing Semantic Segmentation|
+|Getting Started| [Re-ID](https://github.com/STMicroelectronics/STM32N6-GettingStarted-ReID) | Simple application example performing Re-Identification|
+|Getting Started| [Face Detection](https://github.com/STMicroelectronics/STM32N6-GettingStarted-FaceDetection) | Simple application example performing Face Detection|
 |Optimized application| [	People detection and tracking](https://github.com/STMicroelectronics/x-cube-n6-ai-people-detection-tracking) | FreeRTOS-based application example for people detection with AI |
 |Optimized application| [	Pose estimation](https://github.com/STMicroelectronics/x-cube-n6-ai-multi-pose-estimation) | FreeRTOS-based application example for multi pose estimation with AI |
 |Optimized application| [	Face landmarks](https://github.com/STMicroelectronics/x-cube-n6-ai-face-landmarks) | FreeRTOS-based application example for face landmark detection with AI |
